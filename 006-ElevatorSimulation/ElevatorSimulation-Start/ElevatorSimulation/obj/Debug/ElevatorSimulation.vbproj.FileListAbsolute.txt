@@ -1,0 +1,12 @@
+C:\Users\Windows\source\repos\ElevatorSimulation\ElevatorSimulation\bin\Debug\ElevatorSimulation.exe.config
+C:\Users\Windows\source\repos\ElevatorSimulation\ElevatorSimulation\bin\Debug\ElevatorSimulation.exe
+C:\Users\Windows\source\repos\ElevatorSimulation\ElevatorSimulation\bin\Debug\ElevatorSimulation.pdb
+C:\Users\Windows\source\repos\ElevatorSimulation\ElevatorSimulation\bin\Debug\ElevatorSimulation.xml
+C:\Users\Windows\source\repos\ElevatorSimulation\ElevatorSimulation\obj\Debug\ElevatorSimulation.vbprojAssemblyReference.cache
+C:\Users\Windows\source\repos\ElevatorSimulation\ElevatorSimulation\obj\Debug\ElevatorSimulation.frmElevator.resources
+C:\Users\Windows\source\repos\ElevatorSimulation\ElevatorSimulation\obj\Debug\ElevatorSimulation.Resources.resources
+C:\Users\Windows\source\repos\ElevatorSimulation\ElevatorSimulation\obj\Debug\ElevatorSimulation.vbproj.GenerateResource.cache
+C:\Users\Windows\source\repos\ElevatorSimulation\ElevatorSimulation\obj\Debug\ElevatorSimulation.vbproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\ElevatorSimulation\ElevatorSimulation\obj\Debug\ElevatorSimulation.exe
+C:\Users\Windows\source\repos\ElevatorSimulation\ElevatorSimulation\obj\Debug\ElevatorSimulation.xml
+C:\Users\Windows\source\repos\ElevatorSimulation\ElevatorSimulation\obj\Debug\ElevatorSimulation.pdb

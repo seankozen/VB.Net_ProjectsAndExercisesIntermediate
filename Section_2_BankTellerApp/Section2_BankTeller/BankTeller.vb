@@ -33,7 +33,8 @@ Public Class BankTeller
         Try
             currAccount.Deposit(CDec(txtAmount.Text))
             txtBalance.Text = currAccount.Balance.ToString("c")
-
+        Catch ex As ArgumentException
+            MessageBox.Show(ex.Message, "Error")
         Catch ex As Exception
             MessageBox.Show("Please enter a numeric deposit", "Error")
         End Try
@@ -47,6 +48,8 @@ Public Class BankTeller
             Else
                 MessageBox.Show(currAccount.ErrorMsg, "Error")
             End If
+        Catch ex As ArgumentException
+            MessageBox.Show(ex.Message, "Error")
         Catch ex As Exception
             MessageBox.Show("Please enter a numeric withdrawal amount", "Error")
         End Try

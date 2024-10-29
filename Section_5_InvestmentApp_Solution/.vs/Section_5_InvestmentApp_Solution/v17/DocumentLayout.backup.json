@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_5_InvestmentApp_Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D3456C5-5570-4E77-8B8B-64760CCB5404}|Section_5_InvestmentApp\\Section_5_InvestmentApp.vbproj|c:\\vb.net_projectsandexercisesintermediate\\section_5_investmentapp_solution\\section_5_investmentapp\\investment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{1D3456C5-5570-4E77-8B8B-64760CCB5404}|Section_5_InvestmentApp\\Section_5_InvestmentApp.vbproj|c:\\vb.net_projectsandexercisesintermediate\\section_5_investmentapp_solution\\section_5_investmentapp\\investmenttrackingapp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1D3456C5-5570-4E77-8B8B-64760CCB5404}|Section_5_InvestmentApp\\Section_5_InvestmentApp.vbproj|solutionrelative:section_5_investmentapp\\investmenttrackingapp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3456C5-5570-4E77-8B8B-64760CCB5404}|Section_5_InvestmentApp\\Section_5_InvestmentApp.vbproj|C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_5_InvestmentApp_Solution\\section_5_investmentapp\\investment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{1D3456C5-5570-4E77-8B8B-64760CCB5404}|Section_5_InvestmentApp\\Section_5_InvestmentApp.vbproj|solutionrelative:section_5_investmentapp\\investment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D3456C5-5570-4E77-8B8B-64760CCB5404}|Section_5_InvestmentApp\\Section_5_InvestmentApp.vbproj|C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_5_InvestmentApp_Solution\\section_5_investmentapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{1D3456C5-5570-4E77-8B8B-64760CCB5404}|Section_5_InvestmentApp\\Section_5_InvestmentApp.vbproj|solutionrelative:section_5_investmentapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D3456C5-5570-4E77-8B8B-64760CCB5404}|Section_5_InvestmentApp\\Section_5_InvestmentApp.vbproj|C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_5_InvestmentApp_Solution\\section_5_investmentapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{1D3456C5-5570-4E77-8B8B-64760CCB5404}|Section_5_InvestmentApp\\Section_5_InvestmentApp.vbproj|solutionrelative:section_5_investmentapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{1D3456C5-5570-4E77-8B8B-64760CCB5404}|Section_5_InvestmentApp\\Section_5_InvestmentApp.vbproj|C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_5_InvestmentApp_Solution\\section_5_investmentapp\\investmenttrackingapp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1D3456C5-5570-4E77-8B8B-64760CCB5404}|Section_5_InvestmentApp\\Section_5_InvestmentApp.vbproj|solutionrelative:section_5_investmentapp\\investmenttrackingapp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,38 +39,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Investment.vb",
-              "DocumentMoniker": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_5_InvestmentApp_Solution\\Section_5_InvestmentApp\\Investment.vb",
-              "RelativeDocumentMoniker": "Section_5_InvestmentApp\\Investment.vb",
-              "ToolTip": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_5_InvestmentApp_Solution\\Section_5_InvestmentApp\\Investment.vb",
-              "RelativeToolTip": "Section_5_InvestmentApp\\Investment.vb",
-              "ViewState": "AgIAABkAAAAAAAAAAAAmwCQAAAA5AAAAAAAAAA==",
+              "Title": "InvestmentTrackingApp.vb",
+              "DocumentMoniker": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_5_InvestmentApp_Solution\\Section_5_InvestmentApp\\InvestmentTrackingApp.vb",
+              "RelativeDocumentMoniker": "Section_5_InvestmentApp\\InvestmentTrackingApp.vb",
+              "ToolTip": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_5_InvestmentApp_Solution\\Section_5_InvestmentApp\\InvestmentTrackingApp.vb",
+              "RelativeToolTip": "Section_5_InvestmentApp\\InvestmentTrackingApp.vb",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwC0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-10-25T07:38:31.93Z",
+              "WhenOpened": "2024-10-28T00:16:30.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.vb",
-              "DocumentMoniker": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_5_InvestmentApp_Solution\\Section_5_InvestmentApp\\Form1.vb",
-              "RelativeDocumentMoniker": "Section_5_InvestmentApp\\Form1.vb",
-              "ToolTip": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_5_InvestmentApp_Solution\\Section_5_InvestmentApp\\Form1.vb",
-              "RelativeToolTip": "Section_5_InvestmentApp\\Form1.vb",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAlwBQAAAAAAAAAAAAAAA==",
+              "Title": "InvestmentTrackingApp.vb [Design]",
+              "DocumentMoniker": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_5_InvestmentApp_Solution\\Section_5_InvestmentApp\\InvestmentTrackingApp.vb",
+              "RelativeDocumentMoniker": "Section_5_InvestmentApp\\InvestmentTrackingApp.vb",
+              "ToolTip": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_5_InvestmentApp_Solution\\Section_5_InvestmentApp\\InvestmentTrackingApp.vb [Design]",
+              "RelativeToolTip": "Section_5_InvestmentApp\\InvestmentTrackingApp.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-10-25T07:31:28.635Z"
+              "WhenOpened": "2024-10-25T07:20:46.079Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.vb [Design]",
-              "DocumentMoniker": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_5_InvestmentApp_Solution\\Section_5_InvestmentApp\\Form1.vb",
-              "RelativeDocumentMoniker": "Section_5_InvestmentApp\\Form1.vb",
-              "ToolTip": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_5_InvestmentApp_Solution\\Section_5_InvestmentApp\\Form1.vb [Design]",
-              "RelativeToolTip": "Section_5_InvestmentApp\\Form1.vb [Design]",
+              "Title": "Investment.vb",
+              "DocumentMoniker": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_5_InvestmentApp_Solution\\Section_5_InvestmentApp\\Investment.vb",
+              "RelativeDocumentMoniker": "Section_5_InvestmentApp\\Investment.vb",
+              "ToolTip": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_5_InvestmentApp_Solution\\Section_5_InvestmentApp\\Investment.vb",
+              "RelativeToolTip": "Section_5_InvestmentApp\\Investment.vb",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wCYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-10-25T07:20:46.079Z"
+              "WhenOpened": "2024-10-25T07:38:31.93Z"
             }
           ]
         }

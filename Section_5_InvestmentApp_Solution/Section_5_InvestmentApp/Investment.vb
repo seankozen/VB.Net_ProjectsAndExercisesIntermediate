@@ -15,7 +15,7 @@ Public Class Investment
 
 
     Public Property Type As InvestmentType
-    Public Property PurchseDate As Date
+    Public Property PurchaseDate As Date
     Public Property PricePerShare As Double
     Public Property NumOfShares As Integer
     Public Property Ticker As String
@@ -48,7 +48,14 @@ Public Class Investment
         Return False
     End Function
 
+    Public Shared Function GetCurrentPrice(ticker As String) As Double
+        If prices.Contains(ticker) Then
+            Return CType(prices.Item(ticker), PriceType).Price
+        Else
+            Return -1.0
 
+        End If
+    End Function
 
 
 

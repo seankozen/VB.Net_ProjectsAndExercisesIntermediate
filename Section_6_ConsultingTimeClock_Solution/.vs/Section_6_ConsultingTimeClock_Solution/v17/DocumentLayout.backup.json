@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_6_ConsultingTimeClock_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD206BD-FE28-4192-B4EA-CF06EDA91331}|Section_6_ConsultingTimeClock\\Section_6_ConsultingTimeClock.vbproj|c:\\vb.net_projectsandexercisesintermediate\\section_6_consultingtimeclock_solution\\section_6_consultingtimeclock\\consultingtimeclock.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4DD206BD-FE28-4192-B4EA-CF06EDA91331}|Section_6_ConsultingTimeClock\\Section_6_ConsultingTimeClock.vbproj|solutionrelative:section_6_consultingtimeclock\\consultingtimeclock.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD206BD-FE28-4192-B4EA-CF06EDA91331}|Section_6_ConsultingTimeClock\\Section_6_ConsultingTimeClock.vbproj|c:\\vb.net_projectsandexercisesintermediate\\section_6_consultingtimeclock_solution\\section_6_consultingtimeclock\\timeclock.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4DD206BD-FE28-4192-B4EA-CF06EDA91331}|Section_6_ConsultingTimeClock\\Section_6_ConsultingTimeClock.vbproj|solutionrelative:section_6_consultingtimeclock\\timeclock.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD206BD-FE28-4192-B4EA-CF06EDA91331}|Section_6_ConsultingTimeClock\\Section_6_ConsultingTimeClock.vbproj|c:\\vb.net_projectsandexercisesintermediate\\section_6_consultingtimeclock_solution\\section_6_consultingtimeclock\\consultingtimeclock.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4DD206BD-FE28-4192-B4EA-CF06EDA91331}|Section_6_ConsultingTimeClock\\Section_6_ConsultingTimeClock.vbproj|solutionrelative:section_6_consultingtimeclock\\consultingtimeclock.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD206BD-FE28-4192-B4EA-CF06EDA91331}|Section_6_ConsultingTimeClock\\Section_6_ConsultingTimeClock.vbproj|c:\\vb.net_projectsandexercisesintermediate\\section_6_consultingtimeclock_solution\\section_6_consultingtimeclock\\billingdata.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4DD206BD-FE28-4192-B4EA-CF06EDA91331}|Section_6_ConsultingTimeClock\\Section_6_ConsultingTimeClock.vbproj|solutionrelative:section_6_consultingtimeclock\\billingdata.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BillingData.vb",
+              "DocumentMoniker": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_6_ConsultingTimeClock_Solution\\Section_6_ConsultingTimeClock\\BillingData.vb",
+              "RelativeDocumentMoniker": "Section_6_ConsultingTimeClock\\BillingData.vb",
+              "ToolTip": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_6_ConsultingTimeClock_Solution\\Section_6_ConsultingTimeClock\\BillingData.vb",
+              "RelativeToolTip": "Section_6_ConsultingTimeClock\\BillingData.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-28T02:19:39.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimeClock.vb",
+              "DocumentMoniker": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_6_ConsultingTimeClock_Solution\\Section_6_ConsultingTimeClock\\TimeClock.vb",
+              "RelativeDocumentMoniker": "Section_6_ConsultingTimeClock\\TimeClock.vb",
+              "ToolTip": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_6_ConsultingTimeClock_Solution\\Section_6_ConsultingTimeClock\\TimeClock.vb",
+              "RelativeToolTip": "Section_6_ConsultingTimeClock\\TimeClock.vb",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-28T02:00:53.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsultingTimeClock.vb",
+              "DocumentMoniker": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_6_ConsultingTimeClock_Solution\\Section_6_ConsultingTimeClock\\ConsultingTimeClock.vb",
+              "RelativeDocumentMoniker": "Section_6_ConsultingTimeClock\\ConsultingTimeClock.vb",
+              "ToolTip": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_6_ConsultingTimeClock_Solution\\Section_6_ConsultingTimeClock\\ConsultingTimeClock.vb",
+              "RelativeToolTip": "Section_6_ConsultingTimeClock\\ConsultingTimeClock.vb",
+              "ViewState": "AgIAABcAAAAAAAAAAAAhwCYAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-28T01:39:28.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsultingTimeClock.vb [Design]",
+              "DocumentMoniker": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_6_ConsultingTimeClock_Solution\\Section_6_ConsultingTimeClock\\ConsultingTimeClock.vb",
+              "RelativeDocumentMoniker": "Section_6_ConsultingTimeClock\\ConsultingTimeClock.vb",
+              "ToolTip": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_6_ConsultingTimeClock_Solution\\Section_6_ConsultingTimeClock\\ConsultingTimeClock.vb [Design]",
+              "RelativeToolTip": "Section_6_ConsultingTimeClock\\ConsultingTimeClock.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-28T01:27:08.964Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
