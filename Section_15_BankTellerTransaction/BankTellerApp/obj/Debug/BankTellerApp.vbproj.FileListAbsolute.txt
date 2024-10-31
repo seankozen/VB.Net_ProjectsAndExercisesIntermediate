@@ -1,0 +1,61 @@
+C:\Users\Windows\source\repos\BankTellerApp\BankTellerApp\bin\Debug\BankTellerApp.exe.config
+C:\Users\Windows\source\repos\BankTellerApp\BankTellerApp\bin\Debug\BankTellerApp.exe
+C:\Users\Windows\source\repos\BankTellerApp\BankTellerApp\bin\Debug\BankTellerApp.pdb
+C:\Users\Windows\source\repos\BankTellerApp\BankTellerApp\bin\Debug\BankTellerApp.xml
+C:\Users\Windows\source\repos\BankTellerApp\BankTellerApp\obj\Debug\BankTellerApp.vbprojAssemblyReference.cache
+C:\Users\Windows\source\repos\BankTellerApp\BankTellerApp\obj\Debug\BankTellerApp.frmBankTellerApp.resources
+C:\Users\Windows\source\repos\BankTellerApp\BankTellerApp\obj\Debug\BankTellerApp.Resources.resources
+C:\Users\Windows\source\repos\BankTellerApp\BankTellerApp\obj\Debug\BankTellerApp.vbproj.GenerateResource.cache
+C:\Users\Windows\source\repos\BankTellerApp\BankTellerApp\obj\Debug\BankTellerApp.vbproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\BankTellerApp\BankTellerApp\obj\Debug\BankTellerApp.exe
+C:\Users\Windows\source\repos\BankTellerApp\BankTellerApp\obj\Debug\BankTellerApp.xml
+C:\Users\Windows\source\repos\BankTellerApp\BankTellerApp\obj\Debug\BankTellerApp.pdb
+C:\Users\Windows\Desktop\VB-Advanced\001-BankTellerApp\BankTellerApp-Finish\BankTellerApp\obj\Debug\BankTellerApp.vbprojAssemblyReference.cache
+C:\Users\Windows\Desktop\VB-Advanced\001-BankTellerApp\BankTellerApp-Finish\BankTellerApp\obj\Debug\BankTellerApp.frmBankTeller.resources
+C:\Users\Windows\Desktop\VB-Advanced\001-BankTellerApp\BankTellerApp-Finish\BankTellerApp\obj\Debug\BankTellerApp.Resources.resources
+C:\Users\Windows\Desktop\VB-Advanced\001-BankTellerApp\BankTellerApp-Finish\BankTellerApp\obj\Debug\BankTellerApp.vbproj.GenerateResource.cache
+C:\Users\Windows\Desktop\VB-Advanced\001-BankTellerApp\BankTellerApp-Finish\BankTellerApp\obj\Debug\BankTellerApp.vbproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\VB-Advanced\001-BankTellerApp\BankTellerApp-Finish\BankTellerApp\obj\Debug\BankTellerApp.exe
+C:\Users\Windows\Desktop\VB-Advanced\001-BankTellerApp\BankTellerApp-Finish\BankTellerApp\obj\Debug\BankTellerApp.xml
+C:\Users\Windows\Desktop\VB-Advanced\001-BankTellerApp\BankTellerApp-Finish\BankTellerApp\obj\Debug\BankTellerApp.pdb
+C:\Users\Windows\Desktop\VB-Advanced\001-BankTellerApp\BankTellerApp-Finish\BankTellerApp\bin\Debug\BankTellerApp.exe.config
+C:\Users\Windows\Desktop\VB-Advanced\001-BankTellerApp\BankTellerApp-Finish\BankTellerApp\bin\Debug\BankTellerApp.exe
+C:\Users\Windows\Desktop\VB-Advanced\001-BankTellerApp\BankTellerApp-Finish\BankTellerApp\bin\Debug\BankTellerApp.pdb
+C:\Users\Windows\Desktop\VB-Advanced\001-BankTellerApp\BankTellerApp-Finish\BankTellerApp\bin\Debug\BankTellerApp.xml
+C:\Users\Windows\Desktop\VB-Advanced\02-Input Validation\001-BankTellerWithTotals\BankTellerWithTotals-Finish\BankTellerApp\bin\Debug\BankTellerApp.exe.config
+C:\Users\Windows\Desktop\VB-Advanced\02-Input Validation\001-BankTellerWithTotals\BankTellerWithTotals-Finish\BankTellerApp\bin\Debug\BankTellerApp.exe
+C:\Users\Windows\Desktop\VB-Advanced\02-Input Validation\001-BankTellerWithTotals\BankTellerWithTotals-Finish\BankTellerApp\bin\Debug\BankTellerApp.pdb
+C:\Users\Windows\Desktop\VB-Advanced\02-Input Validation\001-BankTellerWithTotals\BankTellerWithTotals-Finish\BankTellerApp\bin\Debug\BankTellerApp.xml
+C:\Users\Windows\Desktop\VB-Advanced\02-Input Validation\001-BankTellerWithTotals\BankTellerWithTotals-Finish\BankTellerApp\obj\Debug\BankTellerApp.frmBankTeller.resources
+C:\Users\Windows\Desktop\VB-Advanced\02-Input Validation\001-BankTellerWithTotals\BankTellerWithTotals-Finish\BankTellerApp\obj\Debug\BankTellerApp.Resources.resources
+C:\Users\Windows\Desktop\VB-Advanced\02-Input Validation\001-BankTellerWithTotals\BankTellerWithTotals-Finish\BankTellerApp\obj\Debug\BankTellerApp.vbproj.GenerateResource.cache
+C:\Users\Windows\Desktop\VB-Advanced\02-Input Validation\001-BankTellerWithTotals\BankTellerWithTotals-Finish\BankTellerApp\obj\Debug\BankTellerApp.vbproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\VB-Advanced\02-Input Validation\001-BankTellerWithTotals\BankTellerWithTotals-Finish\BankTellerApp\obj\Debug\BankTellerApp.exe
+C:\Users\Windows\Desktop\VB-Advanced\02-Input Validation\001-BankTellerWithTotals\BankTellerWithTotals-Finish\BankTellerApp\obj\Debug\BankTellerApp.xml
+C:\Users\Windows\Desktop\VB-Advanced\02-Input Validation\001-BankTellerWithTotals\BankTellerWithTotals-Finish\BankTellerApp\obj\Debug\BankTellerApp.pdb
+C:\Users\Windows\Desktop\VB-Advanced\03-Collections\003-BankTellerTrasactionCollection\BankTellerTransactionCollection-Start\BankTellerApp\bin\Debug\BankTellerApp.exe.config
+C:\Users\Windows\Desktop\VB-Advanced\03-Collections\003-BankTellerTrasactionCollection\BankTellerTransactionCollection-Start\BankTellerApp\bin\Debug\BankTellerApp.exe
+C:\Users\Windows\Desktop\VB-Advanced\03-Collections\003-BankTellerTrasactionCollection\BankTellerTransactionCollection-Start\BankTellerApp\bin\Debug\BankTellerApp.pdb
+C:\Users\Windows\Desktop\VB-Advanced\03-Collections\003-BankTellerTrasactionCollection\BankTellerTransactionCollection-Start\BankTellerApp\bin\Debug\BankTellerApp.xml
+C:\Users\Windows\Desktop\VB-Advanced\03-Collections\003-BankTellerTrasactionCollection\BankTellerTransactionCollection-Start\BankTellerApp\obj\Debug\BankTellerApp.vbprojAssemblyReference.cache
+C:\Users\Windows\Desktop\VB-Advanced\03-Collections\003-BankTellerTrasactionCollection\BankTellerTransactionCollection-Start\BankTellerApp\obj\Debug\BankTellerApp.frmBankTeller.resources
+C:\Users\Windows\Desktop\VB-Advanced\03-Collections\003-BankTellerTrasactionCollection\BankTellerTransactionCollection-Start\BankTellerApp\obj\Debug\BankTellerApp.frmTransactions.resources
+C:\Users\Windows\Desktop\VB-Advanced\03-Collections\003-BankTellerTrasactionCollection\BankTellerTransactionCollection-Start\BankTellerApp\obj\Debug\BankTellerApp.Resources.resources
+C:\Users\Windows\Desktop\VB-Advanced\03-Collections\003-BankTellerTrasactionCollection\BankTellerTransactionCollection-Start\BankTellerApp\obj\Debug\BankTellerApp.vbproj.GenerateResource.cache
+C:\Users\Windows\Desktop\VB-Advanced\03-Collections\003-BankTellerTrasactionCollection\BankTellerTransactionCollection-Start\BankTellerApp\obj\Debug\BankTellerApp.vbproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\VB-Advanced\03-Collections\003-BankTellerTrasactionCollection\BankTellerTransactionCollection-Start\BankTellerApp\obj\Debug\BankTellerApp.exe
+C:\Users\Windows\Desktop\VB-Advanced\03-Collections\003-BankTellerTrasactionCollection\BankTellerTransactionCollection-Start\BankTellerApp\obj\Debug\BankTellerApp.xml
+C:\Users\Windows\Desktop\VB-Advanced\03-Collections\003-BankTellerTrasactionCollection\BankTellerTransactionCollection-Start\BankTellerApp\obj\Debug\BankTellerApp.pdb
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_15_BankTellerTransaction\BankTellerApp\bin\Debug\BankTellerApp.exe.config
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_15_BankTellerTransaction\BankTellerApp\bin\Debug\BankTellerApp.exe
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_15_BankTellerTransaction\BankTellerApp\bin\Debug\BankTellerApp.pdb
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_15_BankTellerTransaction\BankTellerApp\bin\Debug\BankTellerApp.xml
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_15_BankTellerTransaction\BankTellerApp\obj\Debug\BankTellerApp.vbproj.AssemblyReference.cache
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_15_BankTellerTransaction\BankTellerApp\obj\Debug\BankTellerApp.frmBankTeller.resources
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_15_BankTellerTransaction\BankTellerApp\obj\Debug\BankTellerApp.frmTransactions.resources
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_15_BankTellerTransaction\BankTellerApp\obj\Debug\BankTellerApp.Resources.resources
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_15_BankTellerTransaction\BankTellerApp\obj\Debug\BankTellerApp.vbproj.GenerateResource.cache
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_15_BankTellerTransaction\BankTellerApp\obj\Debug\BankTellerApp.vbproj.CoreCompileInputs.cache
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_15_BankTellerTransaction\BankTellerApp\obj\Debug\BankTellerApp.exe
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_15_BankTellerTransaction\BankTellerApp\obj\Debug\BankTellerApp.xml
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_15_BankTellerTransaction\BankTellerApp\obj\Debug\BankTellerApp.pdb

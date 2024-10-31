@@ -1,0 +1,13 @@
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_12_ImageAlbum\SimpleImageAlbum\obj\Debug\SimpleImageAlbum.vbproj.AssemblyReference.cache
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_12_ImageAlbum\SimpleImageAlbum\obj\Debug\SimpleImageAlbum.frmImageAlbum.resources
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_12_ImageAlbum\SimpleImageAlbum\obj\Debug\SimpleImageAlbum.frmImageForm.resources
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_12_ImageAlbum\SimpleImageAlbum\obj\Debug\SimpleImageAlbum.Resources.resources
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_12_ImageAlbum\SimpleImageAlbum\obj\Debug\SimpleImageAlbum.vbproj.GenerateResource.cache
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_12_ImageAlbum\SimpleImageAlbum\obj\Debug\SimpleImageAlbum.vbproj.CoreCompileInputs.cache
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_12_ImageAlbum\SimpleImageAlbum\bin\Debug\SimpleImageAlbum.exe.config
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_12_ImageAlbum\SimpleImageAlbum\bin\Debug\SimpleImageAlbum.exe
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_12_ImageAlbum\SimpleImageAlbum\bin\Debug\SimpleImageAlbum.pdb
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_12_ImageAlbum\SimpleImageAlbum\bin\Debug\SimpleImageAlbum.xml
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_12_ImageAlbum\SimpleImageAlbum\obj\Debug\SimpleImageAlbum.exe
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_12_ImageAlbum\SimpleImageAlbum\obj\Debug\SimpleImageAlbum.xml
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_12_ImageAlbum\SimpleImageAlbum\obj\Debug\SimpleImageAlbum.pdb

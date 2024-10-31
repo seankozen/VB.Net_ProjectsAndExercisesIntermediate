@@ -1,0 +1,36 @@
+C:\Users\Windows\source\repos\ClubCommitteeOrganizer\ClubCommitteeOrganizer\bin\Debug\ClubCommitteeOrganizer.exe.config
+C:\Users\Windows\source\repos\ClubCommitteeOrganizer\ClubCommitteeOrganizer\bin\Debug\ClubCommitteeOrganizer.exe
+C:\Users\Windows\source\repos\ClubCommitteeOrganizer\ClubCommitteeOrganizer\bin\Debug\ClubCommitteeOrganizer.pdb
+C:\Users\Windows\source\repos\ClubCommitteeOrganizer\ClubCommitteeOrganizer\bin\Debug\ClubCommitteeOrganizer.xml
+C:\Users\Windows\source\repos\ClubCommitteeOrganizer\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.vbprojAssemblyReference.cache
+C:\Users\Windows\source\repos\ClubCommitteeOrganizer\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.Form1.resources
+C:\Users\Windows\source\repos\ClubCommitteeOrganizer\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.Resources.resources
+C:\Users\Windows\source\repos\ClubCommitteeOrganizer\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.vbproj.GenerateResource.cache
+C:\Users\Windows\source\repos\ClubCommitteeOrganizer\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.vbproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\ClubCommitteeOrganizer\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.exe
+C:\Users\Windows\source\repos\ClubCommitteeOrganizer\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.xml
+C:\Users\Windows\source\repos\ClubCommitteeOrganizer\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.pdb
+C:\Users\Windows\Desktop\VB-Advanced\02-Input Validation\002-ClubCommiteeOrganizer\ClubCommitteeOrganizer-Finish\ClubCommitteeOrganizer\bin\Debug\ClubCommitteeOrganizer.exe.config
+C:\Users\Windows\Desktop\VB-Advanced\02-Input Validation\002-ClubCommiteeOrganizer\ClubCommitteeOrganizer-Finish\ClubCommitteeOrganizer\bin\Debug\ClubCommitteeOrganizer.exe
+C:\Users\Windows\Desktop\VB-Advanced\02-Input Validation\002-ClubCommiteeOrganizer\ClubCommitteeOrganizer-Finish\ClubCommitteeOrganizer\bin\Debug\ClubCommitteeOrganizer.pdb
+C:\Users\Windows\Desktop\VB-Advanced\02-Input Validation\002-ClubCommiteeOrganizer\ClubCommitteeOrganizer-Finish\ClubCommitteeOrganizer\bin\Debug\ClubCommitteeOrganizer.xml
+C:\Users\Windows\Desktop\VB-Advanced\02-Input Validation\002-ClubCommiteeOrganizer\ClubCommitteeOrganizer-Finish\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.vbprojAssemblyReference.cache
+C:\Users\Windows\Desktop\VB-Advanced\02-Input Validation\002-ClubCommiteeOrganizer\ClubCommitteeOrganizer-Finish\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.frmCommittee.resources
+C:\Users\Windows\Desktop\VB-Advanced\02-Input Validation\002-ClubCommiteeOrganizer\ClubCommitteeOrganizer-Finish\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.Resources.resources
+C:\Users\Windows\Desktop\VB-Advanced\02-Input Validation\002-ClubCommiteeOrganizer\ClubCommitteeOrganizer-Finish\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.vbproj.GenerateResource.cache
+C:\Users\Windows\Desktop\VB-Advanced\02-Input Validation\002-ClubCommiteeOrganizer\ClubCommitteeOrganizer-Finish\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.vbproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\VB-Advanced\02-Input Validation\002-ClubCommiteeOrganizer\ClubCommitteeOrganizer-Finish\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.exe
+C:\Users\Windows\Desktop\VB-Advanced\02-Input Validation\002-ClubCommiteeOrganizer\ClubCommitteeOrganizer-Finish\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.xml
+C:\Users\Windows\Desktop\VB-Advanced\02-Input Validation\002-ClubCommiteeOrganizer\ClubCommitteeOrganizer-Finish\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.pdb
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_17_ClubComittee\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.vbproj.AssemblyReference.cache
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_17_ClubComittee\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.frmCommittee.resources
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_17_ClubComittee\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.Resources.resources
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_17_ClubComittee\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.vbproj.GenerateResource.cache
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_17_ClubComittee\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.vbproj.CoreCompileInputs.cache
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_17_ClubComittee\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.exe
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_17_ClubComittee\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.xml
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_17_ClubComittee\ClubCommitteeOrganizer\obj\Debug\ClubCommitteeOrganizer.pdb
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_17_ClubComittee\ClubCommitteeOrganizer\bin\Debug\ClubCommitteeOrganizer.exe.config
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_17_ClubComittee\ClubCommitteeOrganizer\bin\Debug\ClubCommitteeOrganizer.exe
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_17_ClubComittee\ClubCommitteeOrganizer\bin\Debug\ClubCommitteeOrganizer.pdb
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_17_ClubComittee\ClubCommitteeOrganizer\bin\Debug\ClubCommitteeOrganizer.xml
