@@ -1,0 +1,131 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TrainingWorkshop
+</name>
+</assembly>
+<members>
+<member name="T:TrainingWorkshop.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:TrainingWorkshop.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:TrainingWorkshop.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:TrainingWorkshop.TrainingDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TrainingWorkshop.TrainingDataSet.CategoriesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TrainingWorkshop.TrainingDataSet.WorkshopsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TrainingWorkshop.TrainingDataSet.WorkshopListDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TrainingWorkshop.TrainingDataSet.CategoriesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TrainingWorkshop.TrainingDataSet.WorkshopsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TrainingWorkshop.TrainingDataSet.WorkshopListRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TrainingWorkshop.TrainingDataSet.CategoriesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TrainingWorkshop.TrainingDataSet.WorkshopsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TrainingWorkshop.TrainingDataSet.WorkshopListRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TrainingWorkshop.TrainingDataSetTableAdapters.CategoriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TrainingWorkshop.TrainingDataSetTableAdapters.WorkshopsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TrainingWorkshop.TrainingDataSetTableAdapters.WorkshopListTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TrainingWorkshop.TrainingDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:TrainingWorkshop.TrainingDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(TrainingWorkshop.TrainingDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:TrainingWorkshop.TrainingDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(TrainingWorkshop.TrainingDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:TrainingWorkshop.TrainingDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(TrainingWorkshop.TrainingDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:TrainingWorkshop.TrainingDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:TrainingWorkshop.TrainingDataSetTableAdapters.TableAdapterManager.UpdateAll(TrainingWorkshop.TrainingDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:TrainingWorkshop.TrainingDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:TrainingWorkshop.TrainingDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KarateMemberDates
+</name>
+</assembly>
+<members>
+<member name="T:KarateMemberDates.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:KarateMemberDates.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:KarateMemberDates.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:KarateMemberDates.AdvancedKarateDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:KarateMemberDates.AdvancedKarateDataSet.MembersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:KarateMemberDates.AdvancedKarateDataSet.MembersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:KarateMemberDates.AdvancedKarateDataSet.MembersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:KarateMemberDates.AdvancedKarateDataSetTableAdapters.MembersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:KarateMemberDates.AdvancedKarateDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:KarateMemberDates.AdvancedKarateDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(KarateMemberDates.AdvancedKarateDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:KarateMemberDates.AdvancedKarateDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(KarateMemberDates.AdvancedKarateDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:KarateMemberDates.AdvancedKarateDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(KarateMemberDates.AdvancedKarateDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:KarateMemberDates.AdvancedKarateDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:KarateMemberDates.AdvancedKarateDataSetTableAdapters.TableAdapterManager.UpdateAll(KarateMemberDates.AdvancedKarateDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:KarateMemberDates.AdvancedKarateDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:KarateMemberDates.AdvancedKarateDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:KarateMemberDates.KarateDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:KarateMemberDates.KarateDataSet.MembersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:KarateMemberDates.KarateDataSet.MembersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:KarateMemberDates.KarateDataSet.MembersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:KarateMemberDates.KarateDataSetTableAdapters.MembersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:KarateMemberDates.KarateDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:KarateMemberDates.KarateDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(KarateMemberDates.KarateDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:KarateMemberDates.KarateDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(KarateMemberDates.KarateDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:KarateMemberDates.KarateDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(KarateMemberDates.KarateDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:KarateMemberDates.KarateDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:KarateMemberDates.KarateDataSetTableAdapters.TableAdapterManager.UpdateAll(KarateMemberDates.KarateDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:KarateMemberDates.KarateDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:KarateMemberDates.KarateDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

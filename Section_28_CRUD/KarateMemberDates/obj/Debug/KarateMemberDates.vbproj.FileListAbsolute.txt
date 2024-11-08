@@ -1,0 +1,131 @@
+C:\Users\Windows\source\repos\KarateMemberDates\KarateMemberDates\bin\Debug\karate.mdf
+C:\Users\Windows\source\repos\KarateMemberDates\KarateMemberDates\bin\Debug\KarateMemberDates.exe.config
+C:\Users\Windows\source\repos\KarateMemberDates\KarateMemberDates\bin\Debug\KarateMemberDates.exe
+C:\Users\Windows\source\repos\KarateMemberDates\KarateMemberDates\bin\Debug\KarateMemberDates.pdb
+C:\Users\Windows\source\repos\KarateMemberDates\KarateMemberDates\bin\Debug\KarateMemberDates.xml
+C:\Users\Windows\source\repos\KarateMemberDates\KarateMemberDates\obj\Debug\KarateMemberDates.vbprojAssemblyReference.cache
+C:\Users\Windows\source\repos\KarateMemberDates\KarateMemberDates\obj\Debug\KarateMemberDates.frmMain.resources
+C:\Users\Windows\source\repos\KarateMemberDates\KarateMemberDates\obj\Debug\KarateMemberDates.Resources.resources
+C:\Users\Windows\source\repos\KarateMemberDates\KarateMemberDates\obj\Debug\KarateMemberDates.vbproj.GenerateResource.cache
+C:\Users\Windows\source\repos\KarateMemberDates\KarateMemberDates\obj\Debug\KarateMemberDates.vbproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\KarateMemberDates\KarateMemberDates\obj\Debug\KarateMemberDates.exe
+C:\Users\Windows\source\repos\KarateMemberDates\KarateMemberDates\obj\Debug\KarateMemberDates.xml
+C:\Users\Windows\source\repos\KarateMemberDates\KarateMemberDates\obj\Debug\KarateMemberDates.pdb
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Start\KarateMemberDates\bin\Debug\karate.mdf
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Start\KarateMemberDates\bin\Debug\KarateMemberDates.exe.config
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Start\KarateMemberDates\bin\Debug\KarateMemberDates.exe
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Start\KarateMemberDates\bin\Debug\KarateMemberDates.pdb
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Start\KarateMemberDates\bin\Debug\KarateMemberDates.xml
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.vbprojAssemblyReference.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.frmMain.resources
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.Resources.resources
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.vbproj.GenerateResource.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.vbproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.exe
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.xml
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.pdb
+C:\Users\Windows\Desktop\KarateMemberDates-Start\KarateMemberDates\bin\Debug\karate.mdf
+C:\Users\Windows\Desktop\KarateMemberDates-Start\KarateMemberDates\bin\Debug\KarateMemberDates.exe.config
+C:\Users\Windows\Desktop\KarateMemberDates-Start\KarateMemberDates\bin\Debug\KarateMemberDates.exe
+C:\Users\Windows\Desktop\KarateMemberDates-Start\KarateMemberDates\bin\Debug\KarateMemberDates.pdb
+C:\Users\Windows\Desktop\KarateMemberDates-Start\KarateMemberDates\bin\Debug\KarateMemberDates.xml
+C:\Users\Windows\Desktop\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.vbprojAssemblyReference.cache
+C:\Users\Windows\Desktop\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.frmMain.resources
+C:\Users\Windows\Desktop\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.Resources.resources
+C:\Users\Windows\Desktop\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.vbproj.GenerateResource.cache
+C:\Users\Windows\Desktop\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.vbproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.exe
+C:\Users\Windows\Desktop\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.xml
+C:\Users\Windows\Desktop\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.pdb
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.vbprojAssemblyReference.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.frmMain.resources
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.Resources.resources
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.vbproj.GenerateResource.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.vbproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.exe
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.xml
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.pdb
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\bin\Debug\KarateMemberDates.exe.config
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\bin\Debug\KarateMemberDates.exe
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\bin\Debug\KarateMemberDates.pdb
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\003-KarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\bin\Debug\KarateMemberDates.xml
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Start\KarateMemberDates\bin\Debug\KarateMemberDates.exe.config
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Start\KarateMemberDates\bin\Debug\KarateMemberDates.exe
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Start\KarateMemberDates\bin\Debug\KarateMemberDates.pdb
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Start\KarateMemberDates\bin\Debug\KarateMemberDates.xml
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.vbprojAssemblyReference.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.frmMain.resources
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.Resources.resources
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.vbproj.GenerateResource.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.vbproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.exe
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.xml
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Start\KarateMemberDates\obj\Debug\KarateMemberDates.pdb
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\bin\Debug\KarateMemberDates.exe.config
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\bin\Debug\KarateMemberDates.exe
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\bin\Debug\KarateMemberDates.pdb
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\bin\Debug\KarateMemberDates.xml
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.vbprojAssemblyReference.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.frmMain.resources
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.Resources.resources
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.vbproj.GenerateResource.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.vbproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.exe
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.xml
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\004-AdvanceKarateMemberDates\KarateMemberDates-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.pdb
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Start\KarateMemberDates\bin\Debug\KarateMemberDates.exe.config
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Start\KarateMemberDates\bin\Debug\KarateMemberDates.exe
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Start\KarateMemberDates\bin\Debug\KarateMemberDates.pdb
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Start\KarateMemberDates\bin\Debug\KarateMemberDates.xml
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Start\KarateMemberDates\obj\Debug\KarateMemberDates.vbprojAssemblyReference.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Start\KarateMemberDates\obj\Debug\KarateMemberDates.AllMembers.resources
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Start\KarateMemberDates\obj\Debug\KarateMemberDates.frmMain.resources
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Start\KarateMemberDates\obj\Debug\KarateMemberDates.Resources.resources
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Start\KarateMemberDates\obj\Debug\KarateMemberDates.vbproj.GenerateResource.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Start\KarateMemberDates\obj\Debug\KarateMemberDates.vbproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Start\KarateMemberDates\obj\Debug\KarateMemberDates.exe
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Start\KarateMemberDates\obj\Debug\KarateMemberDates.xml
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Start\KarateMemberDates\obj\Debug\KarateMemberDates.pdb
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Finish\KarateMemberDates\bin\Debug\KarateMemberDates.exe.config
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Finish\KarateMemberDates\bin\Debug\KarateMemberDates.exe
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Finish\KarateMemberDates\bin\Debug\KarateMemberDates.pdb
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Finish\KarateMemberDates\bin\Debug\KarateMemberDates.xml
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.vbprojAssemblyReference.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.AllMembers.resources
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.frmMain.resources
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.Resources.resources
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.vbproj.GenerateResource.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.vbproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.exe
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.xml
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\005-FilteringKArateMembers\FilteringKarateMember-Finish\KarateMemberDates\obj\Debug\KarateMemberDates.pdb
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\006-KarateMembersCRUD\KarateMembersCRUD-Start\KarateMemberDates\bin\Debug\KarateMemberDates.exe.config
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\006-KarateMembersCRUD\KarateMembersCRUD-Start\KarateMemberDates\bin\Debug\KarateMemberDates.exe
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\006-KarateMembersCRUD\KarateMembersCRUD-Start\KarateMemberDates\bin\Debug\KarateMemberDates.pdb
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\006-KarateMembersCRUD\KarateMembersCRUD-Start\KarateMemberDates\bin\Debug\KarateMemberDates.xml
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\006-KarateMembersCRUD\KarateMembersCRUD-Start\KarateMemberDates\obj\Debug\KarateMemberDates.vbprojAssemblyReference.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\006-KarateMembersCRUD\KarateMembersCRUD-Start\KarateMemberDates\obj\Debug\KarateMemberDates.frmAddMember.resources
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\006-KarateMembersCRUD\KarateMembersCRUD-Start\KarateMemberDates\obj\Debug\KarateMemberDates.frmAllMembers.resources
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\006-KarateMembersCRUD\KarateMembersCRUD-Start\KarateMemberDates\obj\Debug\KarateMemberDates.frmFilterByDates.resources
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\006-KarateMembersCRUD\KarateMembersCRUD-Start\KarateMemberDates\obj\Debug\KarateMemberDates.frmFindByName.resources
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\006-KarateMembersCRUD\KarateMembersCRUD-Start\KarateMemberDates\obj\Debug\KarateMemberDates.Resources.resources
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\006-KarateMembersCRUD\KarateMembersCRUD-Start\KarateMemberDates\obj\Debug\KarateMemberDates.vbproj.GenerateResource.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\006-KarateMembersCRUD\KarateMembersCRUD-Start\KarateMemberDates\obj\Debug\KarateMemberDates.vbproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\006-KarateMembersCRUD\KarateMembersCRUD-Start\KarateMemberDates\obj\Debug\KarateMemberDates.exe
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\006-KarateMembersCRUD\KarateMembersCRUD-Start\KarateMemberDates\obj\Debug\KarateMemberDates.xml
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\006-KarateMembersCRUD\KarateMembersCRUD-Start\KarateMemberDates\obj\Debug\KarateMemberDates.pdb
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_28_CRUD\KarateMemberDates\obj\Debug\KarateMemberDates.vbproj.AssemblyReference.cache
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_28_CRUD\KarateMemberDates\obj\Debug\KarateMemberDates.exe
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_28_CRUD\KarateMemberDates\obj\Debug\KarateMemberDates.xml
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_28_CRUD\KarateMemberDates\obj\Debug\KarateMemberDates.pdb
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_28_CRUD\KarateMemberDates\obj\Debug\KarateMemberDates.frmAddMember.resources
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_28_CRUD\KarateMemberDates\obj\Debug\KarateMemberDates.frmAllMembers.resources
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_28_CRUD\KarateMemberDates\obj\Debug\KarateMemberDates.frmFilterByDates.resources
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_28_CRUD\KarateMemberDates\obj\Debug\KarateMemberDates.frmFindByName.resources
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_28_CRUD\KarateMemberDates\obj\Debug\KarateMemberDates.Resources.resources
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_28_CRUD\KarateMemberDates\obj\Debug\KarateMemberDates.vbproj.GenerateResource.cache
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_28_CRUD\KarateMemberDates\obj\Debug\KarateMemberDates.vbproj.CoreCompileInputs.cache
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_28_CRUD\KarateMemberDates\bin\Debug\KarateMemberDates.exe.config
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_28_CRUD\KarateMemberDates\bin\Debug\KarateMemberDates.exe
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_28_CRUD\KarateMemberDates\bin\Debug\KarateMemberDates.pdb
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_28_CRUD\KarateMemberDates\bin\Debug\KarateMemberDates.xml
