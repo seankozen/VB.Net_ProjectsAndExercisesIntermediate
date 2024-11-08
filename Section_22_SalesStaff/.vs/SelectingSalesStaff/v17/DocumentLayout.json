@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_22_SalesStaff\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9965168-7368-4837-B036-FEDA5BBAEFA6}|SelectingSalesStaff\\SelectingSalesStaff.vbproj|c:\\vb.net_projectsandexercisesintermediate\\section_22_salesstaff\\selectingsalesstaff\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C9965168-7368-4837-B036-FEDA5BBAEFA6}|SelectingSalesStaff\\SelectingSalesStaff.vbproj|solutionrelative:selectingsalesstaff\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9965168-7368-4837-B036-FEDA5BBAEFA6}|SelectingSalesStaff\\SelectingSalesStaff.vbproj|C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_22_SalesStaff\\selectingsalesstaff\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C9965168-7368-4837-B036-FEDA5BBAEFA6}|SelectingSalesStaff\\SelectingSalesStaff.vbproj|solutionrelative:selectingsalesstaff\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9965168-7368-4837-B036-FEDA5BBAEFA6}|SelectingSalesStaff\\SelectingSalesStaff.vbproj|C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_22_SalesStaff\\selectingsalesstaff\\kaishasdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{C9965168-7368-4837-B036-FEDA5BBAEFA6}|SelectingSalesStaff\\SelectingSalesStaff.vbproj|solutionrelative:selectingsalesstaff\\kaishasdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KaishasDataSet.xsd",
+              "DocumentMoniker": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_22_SalesStaff\\SelectingSalesStaff\\KaishasDataSet.xsd",
+              "RelativeDocumentMoniker": "SelectingSalesStaff\\KaishasDataSet.xsd",
+              "ToolTip": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_22_SalesStaff\\SelectingSalesStaff\\KaishasDataSet.xsd",
+              "RelativeToolTip": "SelectingSalesStaff\\KaishasDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-11-01T07:26:16.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_22_SalesStaff\\SelectingSalesStaff\\Form1.vb",
+              "RelativeDocumentMoniker": "SelectingSalesStaff\\Form1.vb",
+              "ToolTip": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_22_SalesStaff\\SelectingSalesStaff\\Form1.vb",
+              "RelativeToolTip": "SelectingSalesStaff\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-01T07:08:17.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_22_SalesStaff\\SelectingSalesStaff\\Form1.vb",
+              "RelativeDocumentMoniker": "SelectingSalesStaff\\Form1.vb",
+              "ToolTip": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_22_SalesStaff\\SelectingSalesStaff\\Form1.vb [Design]",
+              "RelativeToolTip": "SelectingSalesStaff\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-01T06:31:30.648Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
