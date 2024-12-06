@@ -1,0 +1,4 @@
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_33_IntegerArrayLib\IntArrayLib\IntegerArrayTest\obj\Debug\IntegerArrayTest.vbproj.AssemblyReference.cache
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_33_IntegerArrayLib\IntArrayLib\IntegerArrayTest\obj\Debug\IntegerArrayTest.Resources.resources
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_33_IntegerArrayLib\IntArrayLib\IntegerArrayTest\obj\Debug\IntegerArrayTest.vbproj.GenerateResource.cache
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_33_IntegerArrayLib\IntArrayLib\IntegerArrayTest\obj\Debug\IntegerArrayTest.vbproj.CoreCompileInputs.cache

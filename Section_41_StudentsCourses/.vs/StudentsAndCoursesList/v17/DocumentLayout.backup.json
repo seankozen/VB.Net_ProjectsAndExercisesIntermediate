@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_41_Student and Courses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_41_Student and Courses\\StudentsAndCoursesList\\CourseRegistrationClasses.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentsAndCoursesList\\CourseRegistrationClasses.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_41_Student and Courses\\StudentsAndCoursesList\\frmMain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentsAndCoursesList\\frmMain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_41_Student and Courses\\StudentsAndCoursesList\\frmMain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentsAndCoursesList\\frmMain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseRegistrationClasses.dbml",
+              "DocumentMoniker": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_41_Student and Courses\\StudentsAndCoursesList\\CourseRegistrationClasses.dbml",
+              "RelativeDocumentMoniker": "StudentsAndCoursesList\\CourseRegistrationClasses.dbml",
+              "ToolTip": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_41_Student and Courses\\StudentsAndCoursesList\\CourseRegistrationClasses.dbml",
+              "RelativeToolTip": "StudentsAndCoursesList\\CourseRegistrationClasses.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-11-20T05:36:25.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.vb",
+              "DocumentMoniker": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_41_Student and Courses\\StudentsAndCoursesList\\frmMain.vb",
+              "RelativeDocumentMoniker": "StudentsAndCoursesList\\frmMain.vb",
+              "ToolTip": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_41_Student and Courses\\StudentsAndCoursesList\\frmMain.vb",
+              "RelativeToolTip": "StudentsAndCoursesList\\frmMain.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T04:49:22.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.vb [Design]",
+              "DocumentMoniker": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_41_Student and Courses\\StudentsAndCoursesList\\frmMain.vb",
+              "RelativeDocumentMoniker": "StudentsAndCoursesList\\frmMain.vb",
+              "ToolTip": "C:\\VB.Net_ProjectsAndExercisesIntermediate\\Section_41_Student and Courses\\StudentsAndCoursesList\\frmMain.vb [Design]",
+              "RelativeToolTip": "StudentsAndCoursesList\\frmMain.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T04:26:09.607Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\Windows\source\repos\StudentsAndCoursesList\StudentsAndCoursesList\bin\Debug\StudentsAndCoursesList.exe.config
+C:\Users\Windows\source\repos\StudentsAndCoursesList\StudentsAndCoursesList\bin\Debug\StudentsAndCoursesList.exe
+C:\Users\Windows\source\repos\StudentsAndCoursesList\StudentsAndCoursesList\bin\Debug\StudentsAndCoursesList.pdb
+C:\Users\Windows\source\repos\StudentsAndCoursesList\StudentsAndCoursesList\bin\Debug\StudentsAndCoursesList.xml
+C:\Users\Windows\source\repos\StudentsAndCoursesList\StudentsAndCoursesList\obj\Debug\StudentsAndCoursesList.vbprojAssemblyReference.cache
+C:\Users\Windows\source\repos\StudentsAndCoursesList\StudentsAndCoursesList\obj\Debug\StudentsAndCoursesList.frmMain.resources
+C:\Users\Windows\source\repos\StudentsAndCoursesList\StudentsAndCoursesList\obj\Debug\StudentsAndCoursesList.Resources.resources
+C:\Users\Windows\source\repos\StudentsAndCoursesList\StudentsAndCoursesList\obj\Debug\StudentsAndCoursesList.vbproj.GenerateResource.cache
+C:\Users\Windows\source\repos\StudentsAndCoursesList\StudentsAndCoursesList\obj\Debug\StudentsAndCoursesList.vbproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\StudentsAndCoursesList\StudentsAndCoursesList\obj\Debug\StudentsAndCoursesList.exe
+C:\Users\Windows\source\repos\StudentsAndCoursesList\StudentsAndCoursesList\obj\Debug\StudentsAndCoursesList.xml
+C:\Users\Windows\source\repos\StudentsAndCoursesList\StudentsAndCoursesList\obj\Debug\StudentsAndCoursesList.pdb
