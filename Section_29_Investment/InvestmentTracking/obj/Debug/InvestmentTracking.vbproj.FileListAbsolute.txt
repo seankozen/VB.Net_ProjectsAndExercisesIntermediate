@@ -1,0 +1,52 @@
+C:\Users\Windows\source\repos\InvestmentTracking\InvestmentTracking\bin\Debug\InvestmentTracking.exe.config
+C:\Users\Windows\source\repos\InvestmentTracking\InvestmentTracking\bin\Debug\InvestmentTracking.exe
+C:\Users\Windows\source\repos\InvestmentTracking\InvestmentTracking\bin\Debug\InvestmentTracking.pdb
+C:\Users\Windows\source\repos\InvestmentTracking\InvestmentTracking\bin\Debug\InvestmentTracking.xml
+C:\Users\Windows\source\repos\InvestmentTracking\InvestmentTracking\obj\Debug\InvestmentTracking.vbprojAssemblyReference.cache
+C:\Users\Windows\source\repos\InvestmentTracking\InvestmentTracking\obj\Debug\InvestmentTracking.frmInvestmentTracking.resources
+C:\Users\Windows\source\repos\InvestmentTracking\InvestmentTracking\obj\Debug\InvestmentTracking.Resources.resources
+C:\Users\Windows\source\repos\InvestmentTracking\InvestmentTracking\obj\Debug\InvestmentTracking.vbproj.GenerateResource.cache
+C:\Users\Windows\source\repos\InvestmentTracking\InvestmentTracking\obj\Debug\InvestmentTracking.vbproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\InvestmentTracking\InvestmentTracking\obj\Debug\InvestmentTracking.exe
+C:\Users\Windows\source\repos\InvestmentTracking\InvestmentTracking\obj\Debug\InvestmentTracking.xml
+C:\Users\Windows\source\repos\InvestmentTracking\InvestmentTracking\obj\Debug\InvestmentTracking.pdb
+C:\Users\Windows\Desktop\VB-Advanced\004-InvestmentTracking\InvestmentTracking-Finish\InvestmentTracking\bin\Debug\InvestmentTracking.exe.config
+C:\Users\Windows\Desktop\VB-Advanced\004-InvestmentTracking\InvestmentTracking-Finish\InvestmentTracking\bin\Debug\InvestmentTracking.exe
+C:\Users\Windows\Desktop\VB-Advanced\004-InvestmentTracking\InvestmentTracking-Finish\InvestmentTracking\bin\Debug\InvestmentTracking.pdb
+C:\Users\Windows\Desktop\VB-Advanced\004-InvestmentTracking\InvestmentTracking-Finish\InvestmentTracking\bin\Debug\InvestmentTracking.xml
+C:\Users\Windows\Desktop\VB-Advanced\004-InvestmentTracking\InvestmentTracking-Finish\InvestmentTracking\obj\Debug\InvestmentTracking.vbprojAssemblyReference.cache
+C:\Users\Windows\Desktop\VB-Advanced\004-InvestmentTracking\InvestmentTracking-Finish\InvestmentTracking\obj\Debug\InvestmentTracking.frmInvestmentTracking.resources
+C:\Users\Windows\Desktop\VB-Advanced\004-InvestmentTracking\InvestmentTracking-Finish\InvestmentTracking\obj\Debug\InvestmentTracking.Resources.resources
+C:\Users\Windows\Desktop\VB-Advanced\004-InvestmentTracking\InvestmentTracking-Finish\InvestmentTracking\obj\Debug\InvestmentTracking.vbproj.GenerateResource.cache
+C:\Users\Windows\Desktop\VB-Advanced\004-InvestmentTracking\InvestmentTracking-Finish\InvestmentTracking\obj\Debug\InvestmentTracking.vbproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\VB-Advanced\004-InvestmentTracking\InvestmentTracking-Finish\InvestmentTracking\obj\Debug\InvestmentTracking.exe
+C:\Users\Windows\Desktop\VB-Advanced\004-InvestmentTracking\InvestmentTracking-Finish\InvestmentTracking\obj\Debug\InvestmentTracking.xml
+C:\Users\Windows\Desktop\VB-Advanced\004-InvestmentTracking\InvestmentTracking-Finish\InvestmentTracking\obj\Debug\InvestmentTracking.pdb
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\008-InvestmentTrackingDbApp\InvestmentTrackingDbApp-Start\InvestmentTracking\bin\Debug\InvestmentTracking.exe.config
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\008-InvestmentTrackingDbApp\InvestmentTrackingDbApp-Start\InvestmentTracking\bin\Debug\InvestmentTracking.exe
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\008-InvestmentTrackingDbApp\InvestmentTrackingDbApp-Start\InvestmentTracking\bin\Debug\InvestmentTracking.pdb
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\008-InvestmentTrackingDbApp\InvestmentTrackingDbApp-Start\InvestmentTracking\bin\Debug\InvestmentTracking.xml
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\008-InvestmentTrackingDbApp\InvestmentTrackingDbApp-Start\InvestmentTracking\obj\Debug\InvestmentTracking.vbprojAssemblyReference.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\008-InvestmentTrackingDbApp\InvestmentTrackingDbApp-Start\InvestmentTracking\obj\Debug\InvestmentTracking.frmInvestmentTracking.resources
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\008-InvestmentTrackingDbApp\InvestmentTrackingDbApp-Start\InvestmentTracking\obj\Debug\InvestmentTracking.frmInvestmentList.resources
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\008-InvestmentTrackingDbApp\InvestmentTrackingDbApp-Start\InvestmentTracking\obj\Debug\InvestmentTracking.Resources.resources
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\008-InvestmentTrackingDbApp\InvestmentTrackingDbApp-Start\InvestmentTracking\obj\Debug\InvestmentTracking.vbproj.GenerateResource.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\008-InvestmentTrackingDbApp\InvestmentTrackingDbApp-Start\InvestmentTracking\obj\Debug\InvestmentTracking.vbproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\008-InvestmentTrackingDbApp\InvestmentTrackingDbApp-Start\InvestmentTracking\obj\Debug\InvestmentTracking.exe
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\008-InvestmentTrackingDbApp\InvestmentTrackingDbApp-Start\InvestmentTracking\obj\Debug\InvestmentTracking.xml
+C:\Users\Windows\Desktop\VB-Advanced\04-Using SQL Server Databases\008-InvestmentTrackingDbApp\InvestmentTrackingDbApp-Start\InvestmentTracking\obj\Debug\InvestmentTracking.pdb
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_29_Investment\InvestmentTracking\bin\Debug\InvestmentTracking.exe.config
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_29_Investment\InvestmentTracking\bin\Debug\InvestmentTracking.exe
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_29_Investment\InvestmentTracking\bin\Debug\InvestmentTracking.pdb
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_29_Investment\InvestmentTracking\bin\Debug\InvestmentTracking.xml
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_29_Investment\InvestmentTracking\obj\Debug\InvestmentTracking.vbproj.AssemblyReference.cache
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_29_Investment\InvestmentTracking\obj\Debug\InvestmentTracking.frmInvestmentTracking.resources
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_29_Investment\InvestmentTracking\obj\Debug\InvestmentTracking.frmInvestmentList.resources
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_29_Investment\InvestmentTracking\obj\Debug\InvestmentTracking.Resources.resources
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_29_Investment\InvestmentTracking\obj\Debug\InvestmentTracking.vbproj.GenerateResource.cache
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_29_Investment\InvestmentTracking\obj\Debug\InvestmentTracking.vbproj.CoreCompileInputs.cache
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_29_Investment\InvestmentTracking\obj\Debug\InvestmentTracking.exe
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_29_Investment\InvestmentTracking\obj\Debug\InvestmentTracking.xml
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_29_Investment\InvestmentTracking\obj\Debug\InvestmentTracking.pdb
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_29_Investment\InvestmentTracking\bin\Debug\InvestTrack.mdf
+C:\VB.Net_ProjectsAndExercisesIntermediate\Section_29_Investment\InvestmentTracking\bin\Debug\InvestTrack_log.ldf
